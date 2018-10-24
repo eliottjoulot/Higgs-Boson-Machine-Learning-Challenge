@@ -1,6 +1,5 @@
 # Higgs-Boson-Machine-Learning-Challenge
 Project 1 of the Machine Learning course at EPFL - It consists in a Kaggle competition similar to the Higgs Boson Machine Learning Challenge (2014).
-<<<<<<< HEAD
 
 Team members:
 * Eliott Joulot
@@ -22,10 +21,4 @@ Following files are required:
 * ```train.csv```
 * ```test.csv```
 
-<<<<<<< HEAD
 They need to be placed in the existing ```./data``` subdirectory.
-=======
->>>>>>> parent of 76b3b52... init README.md
-=======
-Data then needs to be placed in the existing ```./data``` subdirectory.
->>>>>>> parent of d34bebb... Creatinf files & adding functions
